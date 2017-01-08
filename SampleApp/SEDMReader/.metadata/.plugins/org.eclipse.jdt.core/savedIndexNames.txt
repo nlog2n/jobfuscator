@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\.metadata\.plugins\org.eclipse.jdt.core
+761229323.index
+3778330588.index

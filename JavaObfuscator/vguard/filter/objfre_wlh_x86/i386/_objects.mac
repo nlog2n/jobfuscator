@@ -1,0 +1,21 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\crypt.obj \
+ $(OBJ_PATH)\$O\vinit.obj \
+ $(OBJ_PATH)\$O\process.obj \
+ $(OBJ_PATH)\$O\cache.obj \
+ $(OBJ_PATH)\$O\vguard.obj \
+
+
+_RES_FILE=$(OBJ_PATH)\$O\vguard.res
+
+
+
+# lowercased
+BASEDIR=c:\winddk\7600.16385.1
+OBJECT_ROOT=c:\winddk\7600.16385.1
+MAKEDIR_LOWERCASE=d:\sedmblackberryweb\apps\sedm\javaobfuscator\vguard\filter
+OBJ_PATH=d:\sedmblackberryweb\apps\sedm\javaobfuscator\vguard\filter
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0

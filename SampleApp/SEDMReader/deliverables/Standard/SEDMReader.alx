@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="SEDMReader">
+		<name >
+			SEDM Reader
+		</name>
+		<description >
+			I2R SEDM Reader for BlackBerry
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			I2R
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 I2R
+		</copyright>
+		<fileset Java="1.49" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				SEDMReader.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

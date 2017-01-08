@@ -1,0 +1,5 @@
+package com.i2r.sedm;
+
+MENUITEM_ABOUT#0=0;
+NATIVE_BROWSER#0=1;
+MENUITEM_OPEN_IN#0=2;

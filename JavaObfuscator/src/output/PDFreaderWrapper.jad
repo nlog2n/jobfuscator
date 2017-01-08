@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: PDFreaderWrapper
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_crypto,net_rim_os,net_rim_bbapi_browser
+MIDlet-Jar-Size: 138487
+MIDlet-1: ,example.GIF,
+RIM-COD-Creation-Time: 1296526282
+MIDlet-Jar-URL: Secure PDF.jar
+RIM-COD-URL: PDFreaderWrapper.cod
+RIM-COD-SHA1: 67 a2 c4 c0 d7 20 27 e9 15 02 4a 6e d1 53 3d 0e 09 9d d2 ab
+RIM-COD-Size: 46300
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: Secure PDF
+MIDlet-Vendor: BlackBerry Developer
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

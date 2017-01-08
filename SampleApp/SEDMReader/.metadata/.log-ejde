@@ -1,0 +1,312 @@
+09:04:19,000 TRACE [R] ContextManager starting, bundle version: 1.3.0.201101050944-13
+09:04:19,531 DEBUG [C] Property change listener is enabled.
+09:04:19,593 TRACE [R] ContextManager startingneed update: true
+09:04:19,593 DEBUG [I] Attempting To Create vmTools Directory: C:/Eclipse/plugins/net.rim.ejde/vmTools
+09:04:19,609 DEBUG [U] Starting Search for CPs
+09:04:19,640 DEBUG [U] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.30\components
+09:04:20,593 DEBUG [K] VM: *ADDED* [1295917460578$C:\Program Files\Java\jre6]
+09:04:20,750 TRACE [W] Attempting to create VM with name - BlackBerry JRE 6.0.0
+09:04:20,906 DEBUG [K] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.30\components]
+09:04:21,406 TRACE [C] openStartupOnEclpseFirstStart was changed from "false" to "false"
+09:04:21,734 DEBUG [I] Bundle [net.rim.ejde] is changing state to Started.
+09:04:31,390 DEBUG [B] PROVIDER NAME: Update Manager Configurator
+09:04:31,468 DEBUG [B] Found ejde feature: net.rim.EclipseJDE version 1.3.0.201101051005-15
+09:04:31,468 DEBUG [B] qualifier: 15
+09:04:54,609 DEBUG [B] qualifier: 15
+09:13:17,359 DEBUG [I] Bundle [net.rim.ejde] is changing state to Stopping.
+09:13:17,953 DEBUG [C] Property change listener is disabled.
+16:32:43,484 TRACE [R] ContextManager starting, bundle version: 1.3.0.201101050944-13
+16:32:44,328 DEBUG [C] Property change listener is enabled.
+16:32:44,609 TRACE [R] ContextManager startingneed update: true
+16:32:44,656 DEBUG [U] Starting Search for CPs
+16:32:44,828 DEBUG [U] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.30\components
+16:32:45,406 DEBUG [K] VM: *ADDED* [1295917460578$C:\Program Files\Java\jre6]
+16:32:45,406 DEBUG [K] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.30\components]
+16:32:45,796 TRACE [W] Attempting to create VM with name - BlackBerry JRE 6.0.0
+16:32:46,281 DEBUG [B] qualifier: 15
+16:32:46,750 DEBUG [I] Bundle [net.rim.ejde] is changing state to Started.
+16:33:22,671 DEBUG [B] Cannot find the version xml file from host : www.blackberry.com
+16:33:22,671 ERROR [B] Upgrade ejde Plug-In version can't be found on BlackBerry Website for some reasons.
+16:43:21,812 DEBUG [I] Bundle [net.rim.ejde] is changing state to Stopping.
+16:43:21,812 DEBUG [C] Property change listener is disabled.
+16:43:28,828 TRACE [R] ContextManager starting, bundle version: 1.3.0.201101050944-13
+16:43:29,000 DEBUG [C] Property change listener is enabled.
+16:43:29,140 TRACE [R] ContextManager startingneed update: true
+16:43:29,156 DEBUG [U] Starting Search for CPs
+16:43:29,171 DEBUG [U] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.30\components
+16:43:29,203 DEBUG [B] qualifier: 15
+16:43:29,234 DEBUG [K] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.30\components]
+16:43:29,359 DEBUG [K] VM: *ADDED* [1295917460578$C:\Program Files\Java\jre6]
+16:43:29,359 TRACE [W] Attempting to create VM with name - BlackBerry JRE 6.0.0
+16:43:29,593 DEBUG [I] Bundle [net.rim.ejde] is changing state to Started.
+16:44:05,468 DEBUG [B] Cannot find the version xml file from host : www.blackberry.com
+16:44:05,468 ERROR [B] Upgrade ejde Plug-In version can't be found on BlackBerry Website for some reasons.
+16:44:18,328 DEBUG [C] Validating project SEDMReader
+16:44:31,765 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:32,312 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:32,828 TRACE [e] ****** Get resource for SEDMReader
+16:44:32,859 TRACE [e] ****** Get resource for SEDMReader
+16:44:32,875 TRACE [e] ****** Get resource for SEDMReader
+16:44:32,906 TRACE [e] ****** Get resource for SEDMReader
+16:44:32,921 TRACE [e] ****** Get resource for SEDMReader
+16:44:32,953 TRACE [e] ****** Get resource for SEDMReader
+16:44:32,984 TRACE [e] ****** Get resource for SEDMReader
+16:44:33,000 TRACE [e] ****** Get resource for SEDMReader
+16:44:33,000 DEBUG [C] Validating project SEDMReader
+16:44:33,015 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,203 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:46,218 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:46,250 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,281 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,296 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,312 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,328 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,343 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,359 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,375 TRACE [e] ****** Get resource for SEDMReader
+16:44:46,375 DEBUG [C] Validating project SEDMReader
+16:44:46,406 TRACE [e] ****** Get resource for SEDMReader
+16:44:48,765 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:48,781 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:48,796 TRACE [e] ****** Get resource for SEDMReader
+16:44:48,812 DEBUG [C] Validating project SEDMReader
+16:44:48,828 TRACE [e] ****** Get resource for SEDMReader
+16:44:50,343 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:50,359 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:50,375 TRACE [e] ****** Get resource for SEDMReader
+16:44:50,390 DEBUG [C] Validating project SEDMReader
+16:44:50,406 TRACE [e] ****** Get resource for SEDMReader
+16:44:51,921 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:51,921 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:51,937 TRACE [e] ****** Get resource for SEDMReader
+16:44:51,953 DEBUG [C] Validating project SEDMReader
+16:44:51,953 TRACE [e] ****** Get resource for SEDMReader
+16:44:53,531 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:53,546 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:53,546 DEBUG [C] Validating project SEDMReader
+16:44:53,546 TRACE [e] ****** Get resource for SEDMReader
+16:44:55,093 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:55,109 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:55,125 TRACE [e] ****** Get resource for SEDMReader
+16:44:55,125 DEBUG [C] Validating project SEDMReader
+16:44:55,140 TRACE [e] ****** Get resource for SEDMReader
+16:44:56,656 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:56,656 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:56,671 TRACE [e] ****** Get resource for SEDMReader
+16:44:56,671 DEBUG [C] Validating project SEDMReader
+16:44:56,687 TRACE [e] ****** Get resource for SEDMReader
+16:44:58,218 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:58,234 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:58,234 DEBUG [C] Validating project SEDMReader
+16:44:58,250 TRACE [e] ****** Get resource for SEDMReader
+16:44:59,781 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:59,796 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:44:59,812 TRACE [e] ****** Get resource for SEDMReader
+16:44:59,812 DEBUG [C] Validating project SEDMReader
+16:44:59,828 TRACE [e] ****** Get resource for SEDMReader
+16:45:01,343 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:01,343 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:01,359 TRACE [e] ****** Get resource for SEDMReader
+16:45:01,359 DEBUG [C] Validating project SEDMReader
+16:45:01,375 TRACE [e] ****** Get resource for SEDMReader
+16:45:02,906 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:02,921 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:02,921 DEBUG [C] Validating project SEDMReader
+16:45:02,937 TRACE [e] ****** Get resource for SEDMReader
+16:45:04,453 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:04,453 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:04,468 TRACE [e] ****** Get resource for SEDMReader
+16:45:04,484 DEBUG [C] Validating project SEDMReader
+16:45:04,500 TRACE [e] ****** Get resource for SEDMReader
+16:45:06,015 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:06,015 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:06,031 TRACE [e] ****** Get resource for SEDMReader
+16:45:06,031 DEBUG [C] Validating project SEDMReader
+16:45:06,046 TRACE [e] ****** Get resource for SEDMReader
+16:45:07,578 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:07,593 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:07,593 DEBUG [C] Validating project SEDMReader
+16:45:07,609 TRACE [e] ****** Get resource for SEDMReader
+16:45:09,171 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:09,187 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:09,203 TRACE [e] ****** Get resource for SEDMReader
+16:45:09,203 DEBUG [C] Validating project SEDMReader
+16:45:09,218 TRACE [e] ****** Get resource for SEDMReader
+16:45:10,796 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:10,796 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:10,796 DEBUG [C] Validating project SEDMReader
+16:45:10,812 TRACE [e] ****** Get resource for SEDMReader
+16:45:12,390 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:12,390 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:12,406 TRACE [e] ****** Get resource for SEDMReader
+16:45:12,421 DEBUG [C] Validating project SEDMReader
+16:45:12,437 TRACE [e] ****** Get resource for SEDMReader
+16:45:14,000 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:14,000 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:14,015 TRACE [e] ****** Get resource for SEDMReader
+16:45:14,015 DEBUG [C] Validating project SEDMReader
+16:45:14,031 TRACE [e] ****** Get resource for SEDMReader
+16:45:15,593 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:15,609 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:15,609 DEBUG [C] Validating project SEDMReader
+16:45:15,625 TRACE [e] ****** Get resource for SEDMReader
+16:45:17,140 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:17,156 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:17,171 TRACE [e] ****** Get resource for SEDMReader
+16:45:17,171 DEBUG [C] Validating project SEDMReader
+16:45:17,187 TRACE [e] ****** Get resource for SEDMReader
+16:45:18,750 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:18,750 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:18,765 DEBUG [C] Validating project SEDMReader
+16:45:18,781 TRACE [e] ****** Get resource for SEDMReader
+16:45:20,296 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:20,296 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:20,312 TRACE [e] ****** Get resource for SEDMReader
+16:45:20,312 DEBUG [C] Validating project SEDMReader
+16:45:20,328 TRACE [e] ****** Get resource for SEDMReader
+16:45:21,843 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:21,843 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:21,859 TRACE [e] ****** Get resource for SEDMReader
+16:45:21,859 DEBUG [C] Validating project SEDMReader
+16:45:21,875 TRACE [e] ****** Get resource for SEDMReader
+16:45:23,390 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:23,406 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:23,406 DEBUG [C] Validating project SEDMReader
+16:45:23,421 TRACE [e] ****** Get resource for SEDMReader
+16:45:24,984 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:24,984 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:25,000 TRACE [e] ****** Get resource for SEDMReader
+16:45:25,015 DEBUG [C] Validating project SEDMReader
+16:45:25,031 TRACE [e] ****** Get resource for SEDMReader
+16:45:26,593 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:26,593 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:26,593 DEBUG [C] Validating project SEDMReader
+16:45:26,609 TRACE [e] ****** Get resource for SEDMReader
+16:45:28,140 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:28,140 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:28,140 DEBUG [C] Validating project SEDMReader
+16:45:28,156 TRACE [e] ****** Get resource for SEDMReader
+16:45:29,734 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:29,750 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:29,750 TRACE [e] ****** Get resource for SEDMReader
+16:45:29,765 DEBUG [C] Validating project SEDMReader
+16:45:29,765 TRACE [e] ****** Get resource for SEDMReader
+16:45:31,296 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:31,296 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:31,312 DEBUG [C] Validating project SEDMReader
+16:45:31,328 TRACE [e] ****** Get resource for SEDMReader
+16:45:32,843 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:32,859 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:32,875 TRACE [e] ****** Get resource for SEDMReader
+16:45:32,875 DEBUG [C] Validating project SEDMReader
+16:45:32,890 TRACE [e] ****** Get resource for SEDMReader
+16:45:34,421 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:34,421 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:34,437 DEBUG [C] Validating project SEDMReader
+16:45:34,453 TRACE [e] ****** Get resource for SEDMReader
+16:45:35,968 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:35,984 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:35,984 TRACE [e] ****** Get resource for SEDMReader
+16:45:35,984 DEBUG [C] Validating project SEDMReader
+16:45:36,000 TRACE [e] ****** Get resource for SEDMReader
+16:45:37,531 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:37,531 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:37,546 DEBUG [C] Validating project SEDMReader
+16:45:37,546 TRACE [e] ****** Get resource for SEDMReader
+16:45:39,281 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:39,296 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:39,296 TRACE [e] ****** Get resource for SEDMReader
+16:45:39,312 DEBUG [C] Validating project SEDMReader
+16:45:39,312 TRACE [e] ****** Get resource for SEDMReader
+16:45:40,859 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:40,859 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:40,859 DEBUG [C] Validating project SEDMReader
+16:45:40,875 TRACE [e] ****** Get resource for SEDMReader
+16:45:42,421 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:42,421 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:42,437 TRACE [e] ****** Get resource for SEDMReader
+16:45:42,437 DEBUG [C] Validating project SEDMReader
+16:45:42,453 TRACE [e] ****** Get resource for SEDMReader
+16:45:43,968 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:43,984 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:43,984 DEBUG [C] Validating project SEDMReader
+16:45:44,000 TRACE [e] ****** Get resource for SEDMReader
+16:45:45,515 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:45,531 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:45,546 TRACE [e] ****** Get resource for SEDMReader
+16:45:45,562 DEBUG [C] Validating project SEDMReader
+16:45:45,562 TRACE [e] ****** Get resource for SEDMReader
+16:45:47,109 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:47,109 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:47,109 DEBUG [C] Validating project SEDMReader
+16:45:47,125 TRACE [e] ****** Get resource for SEDMReader
+16:45:48,656 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:48,656 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:48,671 TRACE [e] ****** Get resource for SEDMReader
+16:45:48,671 DEBUG [C] Validating project SEDMReader
+16:45:48,687 TRACE [e] ****** Get resource for SEDMReader
+16:45:50,203 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:50,218 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:50,218 DEBUG [C] Validating project SEDMReader
+16:45:50,218 TRACE [e] ****** Get resource for SEDMReader
+16:45:51,750 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:51,750 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:51,765 TRACE [e] ****** Get resource for SEDMReader
+16:45:51,765 DEBUG [C] Validating project SEDMReader
+16:45:51,781 TRACE [e] ****** Get resource for SEDMReader
+16:45:53,312 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:53,312 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:53,312 DEBUG [C] Validating project SEDMReader
+16:45:53,328 TRACE [e] ****** Get resource for SEDMReader
+16:45:54,843 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:54,843 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:54,859 DEBUG [C] Validating project SEDMReader
+16:45:54,859 TRACE [e] ****** Get resource for SEDMReader
+16:45:56,453 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:56,468 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:56,468 TRACE [e] ****** Get resource for SEDMReader
+16:45:56,468 DEBUG [C] Validating project SEDMReader
+16:45:56,484 TRACE [e] ****** Get resource for SEDMReader
+16:45:58,015 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:58,031 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:58,031 DEBUG [C] Validating project SEDMReader
+16:45:58,046 TRACE [e] ****** Get resource for SEDMReader
+16:45:59,578 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:59,578 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:45:59,593 TRACE [e] ****** Get resource for SEDMReader
+16:45:59,593 DEBUG [C] Validating project SEDMReader
+16:45:59,609 TRACE [e] ****** Get resource for SEDMReader
+16:46:01,156 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:01,171 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:01,171 DEBUG [C] Validating project SEDMReader
+16:46:01,171 TRACE [e] ****** Get resource for SEDMReader
+16:46:02,750 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:02,750 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:02,765 DEBUG [C] Validating project SEDMReader
+16:46:02,765 TRACE [e] ****** Get resource for SEDMReader
+16:46:04,359 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:04,359 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:04,375 TRACE [e] ****** Get resource for SEDMReader
+16:46:04,375 DEBUG [C] Validating project SEDMReader
+16:46:04,390 TRACE [e] ****** Get resource for SEDMReader
+16:46:05,953 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:05,953 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:05,953 DEBUG [C] Validating project SEDMReader
+16:46:05,984 TRACE [e] ****** Get resource for SEDMReader
+16:46:07,515 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:07,531 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:07,531 TRACE [e] ****** Get resource for SEDMReader
+16:46:07,546 DEBUG [C] Validating project SEDMReader
+16:46:07,546 TRACE [e] ****** Get resource for SEDMReader
+16:46:09,125 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:09,140 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:09,140 DEBUG [C] Validating project SEDMReader
+16:46:09,140 TRACE [e] ****** Get resource for SEDMReader
+16:46:11,046 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:11,046 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:11,046 DEBUG [C] Validating project SEDMReader
+16:46:11,062 TRACE [e] ****** Get resource for SEDMReader
+16:46:12,593 TRACE [R] loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:12,593 TRACE [R] finished loading D:\SEDMBlackberryWeb\apps\sedm\SEDMReader\SEDMReader\BlackBerry_App_Descriptor.xml
+16:46:17,453 DEBUG [I] Bundle [net.rim.ejde] is changing state to Stopping.
+16:46:17,453 DEBUG [C] Property change listener is disabled.

@@ -1,0 +1,12 @@
+!SESSION 2011-01-25 16:43:24.359 -----------------------------------------------
+eclipse.buildId=M20100909-0800
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data D:\SEDMBlackberryWeb\apps\sedm\SEDMReader
+
+!ENTRY org.eclipse.core.resources 4 566 2011-01-25 16:46:18.078
+!MESSAGE Workspace was not properly initialized or has already shutdown.
+
+!ENTRY org.eclipse.core.jobs 4 1 2011-01-25 16:46:18.093
+!MESSAGE Worker thread ended job: Refreshing workspace(7), but still holds rule: ThreadJob(Refreshing workspace(7),[F/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/SEDMReader/sbox/com/i2r/sedminstaller,])

@@ -1,0 +1,91 @@
+Manifest-Version: 1.0
+MIDlet-Version: 2.0004.022
+MIDlet-Jar-Size: 757375
+RIM-COD-URL-3: DocumentsToGoFiles47-3.cod
+RIM-COD-SHA1-3: 8a 59 05 af a5 96 69 0a 0c 2e 73 ff e9 60 c3 a2 56 3f 33 2d
+RIM-COD-URL-2: DocumentsToGoFiles47-2.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_invoke,net_rim_bbapi_browser,net_rim_bbapi_mailv2,net_rim_os
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: DocumentsToGoFiles47.jar
+RIM-COD-SHA1-2: 5c b5 39 47 05 1f b6 f0 31 f5 5f 5b 08 c8 dd be ea cb ee 3c
+RIM-COD-URL-1: DocumentsToGoFiles47-1.cod
+RIM-COD-SHA1-1: b2 77 bc a1 75 59 c2 73 60 4a 7e 97 6e d8 27 cf e3 3f c5 fc
+RIM-COD-Size-3: 47032
+RIM-MIDlet-Flags-2: 3
+RIM-COD-Size-2: 93376
+RIM-MIDlet-Flags-1: 1
+RIM-COD-Size-1: 94004
+RIM-COD-Module-Name: DocumentsToGoFiles47
+RIM-COD-Size: 75528
+MIDlet-Name: Documents To Go Files
+RIM-COD-Creation-Time: 1275933917
+MIDlet-2: ,,sysLaunch
+MIDlet-1: Documents To Go Files,../common/blackberry/resource/DTGFiles_Logo_60x60.png,
+RIM-COD-URL: DocumentsToGoFiles47.cod
+MIDlet-Description: Documents To Go Files
+RIM-MIDlet-NameResourceId-1: 456
+RIM-COD-SHA1: a8 ac 67 78 12 20 bd ce bb 23 95 d7 31 8c 84 f0 83 e1 78 b3
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: DataViz, Inc.
+RIM-MIDlet-NameResourceBundle-1: com.dataviz.dxtg.fb.resource.DocumentsToGoFiles
+RIM-COD-URL-4: DocumentsToGoFiles47Resource.cod
+RIM-Library-Flags: 2
+RIM-COD-Size-4: 2056
+RIM-COD-URL-5: DocumentsToGoFiles47Resource__ar.cod
+RIM-COD-Size-5: 19524
+RIM-COD-URL-6: DocumentsToGoFiles47Resource__pt_BR.cod
+RIM-COD-Size-6: 18116
+RIM-COD-URL-7: DocumentsToGoFiles47Resource__ca.cod
+RIM-COD-Size-7: 18156
+RIM-COD-URL-8: DocumentsToGoFiles47Resource__zh_CN.cod
+RIM-COD-Size-8: 16792
+RIM-COD-URL-9: DocumentsToGoFiles47Resource__cs.cod
+RIM-COD-Size-9: 19844
+RIM-COD-URL-10: DocumentsToGoFiles47Resource__da.cod
+RIM-COD-Size-10: 17704
+RIM-COD-URL-11: DocumentsToGoFiles47Resource__de.cod
+RIM-COD-Size-11: 19184
+RIM-COD-URL-12: DocumentsToGoFiles47Resource__el.cod
+RIM-COD-Size-12: 23068
+RIM-COD-URL-13: DocumentsToGoFiles47Resource__en.cod
+RIM-COD-Size-13: 17176
+RIM-COD-URL-14: DocumentsToGoFiles47Resource__es.cod
+RIM-COD-Size-14: 18332
+RIM-COD-URL-15: DocumentsToGoFiles47Resource__eu.cod
+RIM-COD-Size-15: 18012
+RIM-COD-URL-16: DocumentsToGoFiles47Resource__fr.cod
+RIM-COD-Size-16: 18780
+RIM-COD-URL-17: DocumentsToGoFiles47Resource__en_GB.cod
+RIM-COD-Size-17: 17072
+RIM-COD-URL-18: DocumentsToGoFiles47Resource__gl.cod
+RIM-COD-Size-18: 18004
+RIM-COD-URL-19: DocumentsToGoFiles47Resource__he.cod
+RIM-COD-Size-19: 18620
+RIM-COD-URL-20: DocumentsToGoFiles47Resource__hu.cod
+RIM-COD-Size-20: 19796
+RIM-COD-URL-21: DocumentsToGoFiles47Resource__id.cod
+RIM-COD-Size-21: 17048
+RIM-COD-URL-22: DocumentsToGoFiles47Resource__it.cod
+RIM-COD-Size-22: 17928
+RIM-COD-URL-23: DocumentsToGoFiles47Resource__ja.cod
+RIM-COD-Size-23: 17976
+RIM-COD-URL-24: DocumentsToGoFiles47Resource__ko.cod
+RIM-COD-Size-24: 16908
+RIM-COD-URL-25: DocumentsToGoFiles47Resource__nl.cod
+RIM-COD-Size-25: 18412
+RIM-COD-URL-26: DocumentsToGoFiles47Resource__no.cod
+RIM-COD-Size-26: 17540
+RIM-COD-URL-27: DocumentsToGoFiles47Resource__pl.cod
+RIM-COD-Size-27: 19364
+RIM-COD-URL-28: DocumentsToGoFiles47Resource__pt_PT.cod
+RIM-COD-Size-28: 18484
+RIM-COD-URL-29: DocumentsToGoFiles47Resource__ro.cod
+RIM-COD-Size-29: 18744
+RIM-COD-URL-30: DocumentsToGoFiles47Resource__ru.cod
+RIM-COD-Size-30: 21908
+RIM-COD-URL-31: DocumentsToGoFiles47Resource__sv.cod
+RIM-COD-Size-31: 17756
+RIM-COD-URL-32: DocumentsToGoFiles47Resource__tr.cod
+RIM-COD-Size-32: 18608
+RIM-COD-URL-33: DocumentsToGoFiles47Resource__zh_TW.cod
+RIM-COD-Size-33: 17724

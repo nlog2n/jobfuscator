@@ -1,0 +1,93 @@
+Manifest-Version: 1.0
+MIDlet-Version: 2.0004.018
+MIDlet-Jar-Size: 852572
+RIM-COD-URL-3: PDFToGo47-3.cod
+RIM-COD-SHA1-3: 72 10 20 40 72 4b b4 53 6a 75 3f e0 69 27 33 c7 da 6f 37 3f
+RIM-COD-URL-2: PDFToGo47-2.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,net_rim_bbapi_invoke,net_rim_bbapi_mailv2,net_rim_os,PDFToGoLib47
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: PDFToGo47.jar
+RIM-COD-SHA1-2: fc 45 33 f0 6a 3e e7 8d 2d 87 ea ff a4 f6 1d a4 be 61 04 11
+RIM-COD-URL-1: PDFToGo47-1.cod
+RIM-COD-SHA1-1: a6 2d 19 36 2b 62 12 47 50 68 c3 46 66 c5 35 36 90 c4 a8 c9
+RIM-COD-Size-3: 75028
+RIM-MIDlet-Flags-2: 3
+RIM-COD-Size-2: 86552
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 86944
+RIM-COD-Module-Name: PDFToGo47
+RIM-COD-Size: 79800
+MIDlet-Name: PDF To Go
+RIM-COD-Creation-Time: 1270229300
+MIDlet-2: ,,sysLaunch
+MIDlet-1: PDF To Go,../common/blackberry/resource/PDF2Go_60x60.png,
+RIM-COD-URL: PDFToGo47.cod
+MIDlet-Description: PDF To Go
+RIM-MIDlet-NameResourceId-1: 476
+RIM-COD-SHA1: 31 28 9b 5c 07 9c 73 da e0 f5 6b 34 07 a8 93 30 60 6c 8a c6
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: DataViz, Inc.
+RIM-MIDlet-NameResourceBundle-1: com.dataviz.dxtg.ptg.resource.PDFToGo
+RIM-COD-URL-18: PDFToGoLib47-14.cod
+RIM-COD-SHA1-4: 51 9a d1 89 f2 77 0d 10 a1 6f ce 3b 4b 7d 8c 3c 15 26 5f f8
+RIM-COD-URL-17: PDFToGoLib47-13.cod
+RIM-COD-URL-16: PDFToGoLib47-12.cod
+RIM-COD-URL-15: PDFToGoLib47-11.cod
+RIM-COD-URL-14: PDFToGoLib47-10.cod
+RIM-COD-URL-13: PDFToGoLib47-9.cod
+RIM-COD-URL-12: PDFToGoLib47-8.cod
+RIM-COD-URL-11: PDFToGoLib47-7.cod
+RIM-COD-URL-10: PDFToGoLib47-6.cod
+RIM-COD-URL-9: PDFToGoLib47-5.cod
+RIM-COD-URL-8: PDFToGoLib47-4.cod
+RIM-COD-URL-7: PDFToGoLib47-3.cod
+RIM-COD-URL-6: PDFToGoLib47-2.cod
+RIM-COD-URL-5: PDFToGoLib47-1.cod
+RIM-COD-Size-13: 45020
+RIM-COD-Size-12: 72456
+RIM-COD-Size-11: 67940
+RIM-COD-Size-10: 80416
+RIM-COD-Size-9: 89576
+RIM-COD-Size-8: 69208
+RIM-COD-Size-7: 89432
+RIM-COD-Size-6: 92344
+RIM-COD-Size-5: 88792
+RIM-COD-Size-4: 66536
+RIM-COD-Size-21: 25208
+RIM-COD-Size-20: 51876
+RIM-COD-Size-19: 67588
+RIM-COD-Size-18: 83176
+RIM-COD-Size-17: 70436
+RIM-COD-Size-16: 75072
+RIM-COD-Size-15: 39684
+RIM-COD-Size-14: 43756
+RIM-COD-SHA1-17: a3 87 6a c2 8a 31 1f c5 2b c1 90 9d ba 55 1b 94 6d 1f ed 8c
+RIM-COD-SHA1-16: 9b b5 d0 67 c6 29 a4 72 6e cc 1f fb 4e e6 3f 43 50 d3 ae fa
+RIM-COD-SHA1-15: d4 03 4c 1a 3c 20 ce 9c 70 62 f1 13 85 73 ed a0 56 d8 73 b8
+RIM-COD-SHA1-14: f6 85 79 59 64 e3 61 eb cd 80 25 29 c9 bc f5 66 90 94 03 57
+RIM-COD-URL-4: PDFToGoLib47.cod
+RIM-COD-SHA1-13: 87 7e 9f ec 26 c7 72 f0 b3 de b5 a1 41 e7 9b c9 a4 0b f9 43
+RIM-COD-SHA1-12: bd be 0c 03 2b 15 8e 64 e2 d0 ae cb 6e 9a 56 82 91 fb af d1
+RIM-COD-SHA1-11: 1b 69 a4 bd e6 40 2f d6 c5 2a b9 46 e3 70 53 39 9c f0 21 7b
+RIM-COD-SHA1-10: 08 93 51 da 84 8d fe ad 9a 86 05 d8 cf 38 02 03 d3 b1 e0 ea
+RIM-Library-Flags: 2
+RIM-COD-SHA1-9: 5a 88 a6 e7 15 f2 44 bf 21 fb 2b 23 8c 5f de 5d 53 e8 fe 93
+RIM-COD-SHA1-8: 9a 72 a3 50 a4 ae be f3 07 96 d6 32 73 1d cd fb 9e ad 94 45
+RIM-COD-URL-21: PDFToGoLib47-17.cod
+RIM-COD-SHA1-7: ab bd e5 b2 9a c1 ba 36 e0 c9 48 04 c6 4d ed 8f 9a 59 ff 84
+RIM-COD-URL-20: PDFToGoLib47-16.cod
+RIM-COD-SHA1-6: 88 84 c4 b7 e1 19 09 23 d4 ae f1 01 06 21 d6 57 0d 1b f2 0b
+RIM-COD-URL-19: PDFToGoLib47-15.cod
+RIM-COD-SHA1-5: 5d ce 05 ea 10 45 2e d1 fa 4a ab 3b 60 87 17 07 45 04 5f e2
+RIM-COD-URL-22: PDFToGo47Resource.cod
+RIM-COD-Size-22: 2008
+RIM-COD-URL-23: PDFToGo47Resource__en.cod
+RIM-COD-Size-23: 17124
+RIM-COD-URL-24: PDFToGo47Resource__fr.cod
+RIM-COD-Size-24: 18728
+RIM-COD-URL-25: PDFToGo47Resource__it.cod
+RIM-COD-Size-25: 17876
+RIM-COD-URL-26: PDFToGo47Resource__de.cod
+RIM-COD-Size-26: 19136
+RIM-COD-URL-27: PDFToGo47Resource__es.cod
+RIM-COD-Size-27: 18284

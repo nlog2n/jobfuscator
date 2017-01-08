@@ -1,0 +1,258 @@
+com.i2r.sedm.LoginScreen -> com.i2r.sedm.a:
+    net.rim.device.api.ui.component.LabelField lblTitle -> d
+    net.rim.device.api.ui.component.EditField edtName -> a
+    net.rim.device.api.ui.component.PasswordEditField edtPass -> b
+    net.rim.device.api.ui.component.ButtonField btnEnter -> e
+    net.rim.device.api.ui.component.ButtonField btnCancel -> f
+    net.rim.device.api.ui.Font fontLblTitle -> g
+    com.i2r.sedm.SPDFReader spdfapp -> c
+    void fieldChanged(net.rim.device.api.ui.Field,int) -> fieldChanged
+com.i2r.sedm.LoginScreen$1 -> com.i2r.sedm.b:
+    com.i2r.sedm.LoginScreen this$0 -> a
+    void onFocus(int) -> onFocus
+    void paint(net.rim.device.api.ui.Graphics) -> paint
+com.i2r.sedm.LoginScreen$2 -> com.i2r.sedm.c:
+    com.i2r.sedm.LoginScreen this$0 -> a
+    void onFocus(int) -> onFocus
+com.i2r.sedm.LoginScreen$3 -> com.i2r.sedm.d:
+    java.lang.String val$username -> a
+    java.lang.String val$password -> b
+    com.i2r.sedm.LoginScreen this$0 -> c
+    void run() -> run
+com.i2r.sedm.RecordManager -> com.i2r.sedm.e:
+    javax.microedition.rms.RecordStore rms -> a
+    byte[] StringtoBytes(java.lang.String) -> b
+    java.lang.String BytesToString(byte[]) -> a
+    java.lang.String[] Read(java.lang.String) -> a
+    java.lang.String Save(java.lang.String[],java.lang.String) -> a
+com.i2r.sedm.SPDFReader -> com.i2r.sedm.SPDFReader:
+    java.lang.String CHAPI_ID -> f
+    java.lang.String CHAPI_CLASS_NAME -> g
+    java.lang.String SPDF_TYPE -> h
+    java.lang.String SPDF_SUF -> i
+    java.lang.String SPDF_HANDLER -> j
+    java.lang.String[] TYPES -> k
+    java.lang.String[] SUFFIXES -> l
+    java.lang.String[] ACTIONS -> m
+    java.lang.String HANDLERNAME -> n
+    boolean flagAccountExists -> a
+    java.lang.String userName -> b
+    java.lang.String passWord -> c
+    com.i2r.sedm.LoginScreen loginScreen -> o
+    com.i2r.sedm.SPDFReaderScreen readerScreen -> d
+    java.lang.String currentSPDFFile -> e
+    com.i2r.sedm.SecurePDF my_wrapper -> p
+    void main(java.lang.String[]) -> main
+    void register() -> d
+    void RemovePDF() -> a
+    void InvokeSPDF() -> b
+    void errorDialog(java.lang.String) -> a
+    void initLog() -> e
+    void invocationRequestNotify(javax.microedition.content.ContentHandlerServer) -> invocationRequestNotify
+    void DeleteFile(java.lang.String) -> b
+    void invocationResponseNotify(javax.microedition.content.Registry) -> invocationResponseNotify
+    void access$000(com.i2r.sedm.SPDFReader) -> a
+    void access$100() -> c
+com.i2r.sedm.SPDFReader$1 -> com.i2r.sedm.f:
+    java.lang.String val$message -> a
+    void run() -> run
+com.i2r.sedm.SPDFReader$2 -> com.i2r.sedm.g:
+    com.i2r.sedm.SPDFReader this$0 -> a
+    void run() -> run
+com.i2r.sedm.SPDFReaderAppPermissions -> com.i2r.sedm.h:
+    com.i2r.sedm.SPDFReaderAppPermissions singletonObject -> a
+    com.i2r.sedm.SPDFReaderAppPermissions getIstance() -> a
+com.i2r.sedm.SPDFReaderCore -> com.i2r.sedm.i:
+    com.i2r.sedm.SPDFReaderCore$MySDListener sdCardListener -> a
+    java.util.Timer timer -> b
+    com.i2r.sedm.SPDFReaderCore instance -> c
+    com.i2r.sedm.SPDFReaderCore getInstance() -> a
+    void exitSPDFReader() -> b
+com.i2r.sedm.SPDFReaderCore$MySDListener -> com.i2r.sedm.j:
+    com.i2r.sedm.SPDFReaderCore this$0 -> a
+    void rootChanged(int,java.lang.String) -> rootChanged
+com.i2r.sedm.SPDFReaderDAO -> com.i2r.sedm.k:
+    java.lang.String SD_STORE_PATH -> a
+    long[] persistentStoreUsedKeys -> b
+    boolean isKeysExists(long) -> a
+    java.util.Hashtable loadAppData(long) -> b
+    java.lang.String getBaseDirPath() -> a
+    void setBaseDirPath(java.lang.String) -> a
+    void setUpFolderStructure() -> b
+    boolean readApplicationPreferecens(com.i2r.sedm.SPDFReaderPref) -> a
+com.i2r.sedm.SPDFReaderPref -> com.i2r.sedm.l:
+    com.i2r.sedm.SPDFReaderPref singletonObject -> a
+    com.i2r.sedm.SPDFReaderPref getIstance() -> a
+com.i2r.sedm.SPDFReaderScreen -> com.i2r.sedm.m:
+    com.i2r.sedm.SPDFReader spdfapp -> b
+    net.rim.device.api.ui.component.EditField _ef -> c
+    net.rim.device.api.ui.component.LabelField _instructions -> d
+    java.util.Random random -> e
+    com.i2r.sedminstaller.listener.Listener listener -> a
+    java.lang.String pdffilename -> f
+    java.lang.String getRandomStr() -> c
+    void InvokeSPDF() -> a
+    void startRead() -> b
+    boolean onSavePrompt() -> onSavePrompt
+com.i2r.sedm.SPDFReaderScreen$1 -> com.i2r.sedm.n:
+    com.i2r.sedm.SPDFReaderScreen this$0 -> a
+    void run() -> run
+com.i2r.sedm.SecurePDF -> com.i2r.sedm.o:
+    int my_wrapper_id -> a
+    int software_secret_key -> b
+    java.lang.String errDebug -> c
+    boolean checkDevice() -> a
+    int getMD5Sum(java.lang.String) -> a
+    java.lang.String getMD5(java.lang.String) -> b
+com.i2r.sedminstaller.core.SEDMLicense -> com.i2r.a.a.a:
+    byte[] softwareKc -> a
+    byte[] getSoftwareKey() -> a
+com.i2r.sedminstaller.core.SEDMPacket -> com.i2r.a.a.b:
+    byte[] packet -> a
+    void CreateDownloadPacket(byte[],byte[]) -> a
+    void CreateLicensePacket(byte[],byte[],int) -> a
+    byte[] getPacket() -> a
+    byte[] getPIN() -> b
+com.i2r.sedminstaller.core.SEDMProcess -> com.i2r.a.a.c:
+    int fileID -> a
+    byte[] input -> b
+    byte[] softwareKey -> c
+    byte[] softwareIV -> d
+    void DecryptEncryptedPDF2(com.i2r.sedminstaller.core.SEDMLicense,java.lang.String) -> a
+    void ReadEncryptedPDF(java.lang.String) -> a
+    int GetFileID() -> a
+com.i2r.sedminstaller.crypto.AESCrypto -> com.i2r.a.b.a:
+    java.io.ByteArrayOutputStream outputStream -> a
+    java.io.ByteArrayInputStream inputStream -> b
+    net.rim.device.api.crypto.BlockEncryptor encryptor -> c
+    net.rim.device.api.crypto.BlockDecryptor decryptor -> d
+    net.rim.device.api.crypto.AESKey key -> e
+    net.rim.device.api.crypto.InitializationVector IV -> f
+    void encrypt(byte[],byte[],int) -> a
+    void decrypt(byte[],byte[],int) -> b
+com.i2r.sedminstaller.crypto.PDFCrypto -> com.i2r.a.b.b:
+    int KEY_SIZE -> a
+    int FRAME_KEY_SIZE -> b
+    byte[] frameKey -> c
+    byte[] SBox -> d
+    void EncryptStream(byte[],int,byte[],int,int,int) -> a
+    void PDFCryptoInit(byte[],int) -> a
+com.i2r.sedminstaller.crypto.PDFMD5 -> com.i2r.a.b.c:
+    int[] T -> a
+    byte[] digest(byte[],int,int) -> a
+    int rot(int,int) -> a
+    int round1(int,int,int,int,int,int,int,int[]) -> a
+    int round2(int,int,int,int,int,int,int,int[]) -> b
+    int round3(int,int,int,int,int,int,int,int[]) -> c
+    int round4(int,int,int,int,int,int,int,int[]) -> d
+com.i2r.sedminstaller.listener.Listener -> com.i2r.a.c.a:
+    java.lang.String downloadURL -> f
+    java.lang.String licenseURL -> g
+    byte[] key -> a
+    byte[] IV -> b
+    byte[] random -> c
+    boolean flag -> d
+    int userflag -> e
+    void errorDialog(java.lang.String) -> a
+    void SubmitLicenseProcess(java.lang.String,java.lang.String,java.lang.String,java.lang.String) -> a
+    void LoginProcess(java.lang.String,java.lang.String) -> a
+    void EndConnection() -> a
+    java.lang.String access$000() -> b
+    java.lang.String access$200() -> c
+com.i2r.sedminstaller.listener.Listener$2 -> com.i2r.a.c.b:
+    java.lang.String val$message -> a
+    void run() -> run
+com.i2r.sedminstaller.listener.Listener$3 -> com.i2r.a.c.c:
+    java.lang.String val$username -> a
+    java.lang.String val$filename -> b
+    java.lang.String val$password -> c
+    java.lang.String val$PDFFilename -> d
+    com.i2r.sedminstaller.listener.Listener this$0 -> e
+    void run() -> run
+com.i2r.sedminstaller.listener.Listener$4 -> com.i2r.a.c.d:
+    java.lang.String val$username -> a
+    java.lang.String val$password -> b
+    com.i2r.sedminstaller.listener.Listener this$0 -> c
+    void run() -> run
+com.i2r.sedminstaller.network.HttpPacket -> com.i2r.a.d.a:
+    int DOWNLOAD -> a
+    int USERNAME -> b
+    int AES -> c
+    int DELETE -> d
+    int LICENSE -> e
+    int LOGIN_1 -> f
+    int LOGIN_2 -> g
+    byte[] packet -> h
+    byte[] getPacket() -> a
+com.i2r.sedminstaller.network.Server -> com.i2r.a.d.b:
+    com.i2r.sedminstaller.util.ByteBuffer bb -> a
+    com.i2r.sedminstaller.util.ByteBuffer POST(java.lang.String,com.i2r.sedminstaller.network.HttpPacket) -> a
+    void showToast(java.lang.String) -> a
+com.i2r.sedminstaller.network.Server$1 -> com.i2r.a.d.c:
+    java.lang.String val$msg -> a
+    void run() -> run
+com.i2r.sedminstaller.util.ByteBuffer -> com.i2r.a.e.a:
+    byte[] byteRay -> a
+    com.i2r.sedminstaller.util.ByteBuffer append(byte[],int,int) -> a
+    java.lang.String toString() -> toString
+    java.lang.String getString() -> a
+    void arrayCopy(byte[],int,byte[],int,int) -> a
+    byte[] getBytes() -> b
+com.i2r.sedminstaller.util.Convert -> com.i2r.a.e.b:
+    java.lang.String appName -> a
+    boolean isOpen -> b
+    int level -> c
+    byte[] intToByteArray(int) -> a
+    void open() -> a
+    void writeLogMessage(java.lang.String,java.lang.String) -> a
+    int getLogLevel() -> b
+    void setLogLevel(int) -> b
+com.i2r.sedminstaller.util.FileSystem -> com.i2r.a.e.c:
+    java.lang.String fileUrl -> a
+    java.lang.String oldSuffix -> b
+    java.lang.String lineSeparator -> c
+    java.io.OutputStream os -> d
+    javax.microedition.io.file.FileConnection file -> e
+    long maxFileSize -> f
+    int level -> g
+    byte[] ReadFile(java.lang.String) -> a
+    boolean WriteFile(java.lang.String,byte[]) -> a
+    void writeLogMessage(java.lang.String,java.lang.String) -> a
+    void open() -> a
+    void setLogLevel(int) -> b
+    int getLogLevel() -> b
+com.i2r.utils.CalendarUtils -> com.i2r.b.a:
+    java.lang.String printTwoDigits(int) -> a
+    java.lang.String dateToUTC(java.util.Date) -> a
+com.i2r.utils.File.CustomHashtable -> com.i2r.b.a.a:
+com.i2r.utils.File.FileUtils -> com.i2r.b.a.b:
+    void closeConnection(javax.microedition.io.Connection) -> a
+com.i2r.utils.File.JSR75FileSystem -> com.i2r.b.a.c:
+    boolean hasMicroSD() -> a
+    boolean supportMicroSD() -> b
+    boolean isFileExist(java.lang.String) -> a
+    void createDir(java.lang.String) -> b
+    void createFile(java.lang.String) -> c
+    boolean isDirectory(java.lang.String) -> e
+    void removeFile(java.lang.String) -> d
+com.i2r.utils.log.Appender -> com.i2r.b.b.a:
+    void open() -> a
+    void setLogLevel(int) -> b
+    int getLogLevel() -> b
+    void writeLogMessage(java.lang.String,java.lang.String) -> a
+com.i2r.utils.log.ConsoleAppender -> com.i2r.b.b.b:
+    void writeLogMessage(java.lang.String,java.lang.String) -> a
+    void open() -> a
+    void setLogLevel(int) -> b
+    int getLogLevel() -> b
+com.i2r.utils.log.Log -> com.i2r.b.b.c:
+    java.util.Vector appenders -> a
+    int level -> b
+    void initLog(int) -> a
+    void error(java.lang.String) -> a
+    void error(java.lang.Object,java.lang.String) -> a
+    void info(java.lang.String) -> b
+    void debug(java.lang.String) -> c
+    void trace(java.lang.String) -> d
+    void writeLogMessage(int,java.lang.String,java.lang.String) -> a
+    void addAppender(com.i2r.utils.log.Appender) -> a

@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+MIDlet-Jar-Size: 132485
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: Secure PDF.jar
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-URL-1: Secure_PDF-1.cod
+RIM-COD-SHA1-1: 3d b4 cd 18 60 aa 9c d6 ce 76 41 2b c8 9b a6 50 dd 2f 5b a8
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 57568
+RIM-COD-Module-Name: Secure_PDF
+MIDlet-Name: Secure PDF
+RIM-COD-Size: 34116
+RIM-COD-Creation-Time: 1289198225
+MIDlet-1: ,,
+RIM-COD-URL: Secure_PDF.cod
+RIM-COD-SHA1: ef 6f 37 90 c5 23 ea b8 da 41 a3 27 1a 62 40 7b 2a 1b 9d ff
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: BlackBerry Developer
